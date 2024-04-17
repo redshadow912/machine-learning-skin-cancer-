@@ -1,0 +1,2 @@
+to download my data set visit:
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
